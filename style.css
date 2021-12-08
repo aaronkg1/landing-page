@@ -169,7 +169,7 @@ h1 {
 
 .cryptocards {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     gap: 10px;
 }
 
