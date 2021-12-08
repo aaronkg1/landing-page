@@ -64,6 +64,11 @@ h1 {
     color: rgb(203 159 0);
 }
 
+.nav-left-side a:hover {
+    text-decoration: none;
+    color: black; 
+}
+
 .nav-right-side {
     flex: 1 0 auto;
     display: flex;
@@ -77,6 +82,11 @@ h1 {
     font-weight: 600;
 }
 
+.nav-right-side a:hover {
+    font-family: 'Roboto', arial;
+    font-weight: 600;
+    color: black;
+}
 
 .wrapper1 {
     display: flex;
