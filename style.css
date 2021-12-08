@@ -15,6 +15,8 @@ a {
     text-decoration: none;
 }
 
+
+
 h1 {
     font-size: 48px;
     font-weight: bold;
@@ -50,11 +52,6 @@ h1 {
     
 }
 
-.header a {
-    color: white;
-    font-family: 'Roboto', arial;
-    font-weight: 600;
-}
 
 .nav-left-side {
     flex: 1 0 auto;
@@ -62,11 +59,21 @@ h1 {
     justify-content: flex-start;
 }
 
+.nav-left-side a {
+    color: black;
+}
+
 .nav-right-side {
     flex: 1 0 auto;
     display: flex;
     justify-content: flex-end;
     gap: 16px;
+}
+
+.nav-right-side a {
+    color: white;
+    font-family: 'Roboto', arial;
+    font-weight: 600;
 }
 
 
