@@ -1,1 +1,1 @@
-Landing page project for The Odin Project. This project will put to use flexbox skills learnt so far.
+Cryptocurrency themed landing page project for The Odin Project. This project will put to use flexbox skills learnt so far. 
