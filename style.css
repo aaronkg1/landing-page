@@ -60,6 +60,7 @@ h1 {
 }
 
 .nav-left-side a {
+    text-decoration: none;
     color: rgb(203 159 0);
 }
 
